@@ -1,0 +1,44 @@
+{
+	"name": "webcore-chat",
+	"version": "1.0.0",
+	"description": "An awesome chat app built in Node.js!",
+	"main": "server.js",
+	"scripts": {
+		"start": "node server.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/WebParadisePL/webcore-chat"
+	},
+	"author": "WebParadise Pvt. Ltd. <business@webparadise.ml> (http://webparadise.ml)",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/WebParadisePL/webcore-chat/issues"
+	},
+	"dependencies": {
+		"express": "4.16.1",
+		"body-parser": "1.18.2",
+		"ejs": "2.5.7",
+		"mongoose": "4.12.0",
+		"bcrypt-nodejs": "0.0.3",
+		"connect-flash": "0.1.1",
+		"connect-mongo": "2.0.0",
+		"express-sessions": "1.0.6",
+		"passport": "0.4.0",
+		"passport-local": "1.0.0",
+		"passport-twitter": "1.0.4",
+		"redis": "2.8.0",
+		"socket.io": "2.0.3",
+		"socket.io-redis": "5.2.0",
+		"winston": "2.4.0"
+	},
+	"engines": {
+		"node": "8.6.0"
+	},
+	"keywords": [
+		"chat",
+		"node.js",
+		"server",
+		"webcore"
+	]
+}

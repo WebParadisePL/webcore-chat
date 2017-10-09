@@ -1,0 +1,21 @@
+{
+	"db": {
+		"username": "heroku_1hq0pw81",
+		"password": "qcae6ppu12seved2j6eeq0pbnm",
+		"host": "ds113785.mlab.com",
+		"port": "13785",
+		"name": "heroku_1hq0pw81"
+	},
+	"sessionSecret": "iamanastybanana",
+	"twitter": {
+		"consumerKey": "Zx8y98p934RUWwLlWO7Xg49JF",
+		"consumerSecret": "bEj9uK1XEmKjbUuNhxToQZWYwvuk3ntJcayOVwBkZCEuycWUhu",
+		"callbackURL": "/auth/twitter/callback",
+		"profileFields": ["id", "displayName", "photos"]
+	},
+	"redis": {
+		"host": "ec2-34-230-181-147.compute-1.amazonaws.com",
+		"port": "63759",
+		"password": "pa07319ac5e99e8114e13f2019656462d9ece32574bb87f0980087dc94257ca63"
+	}
+}
