@@ -8,8 +8,8 @@
 	},
 	"sessionSecret": "iamanastybanana",
 	"twitter": {
-		"consumerKey": "Zx8y98p934RUWwLlWO7Xg49JF",
-		"consumerSecret": "bEj9uK1XEmKjbUuNhxToQZWYwvuk3ntJcayOVwBkZCEuycWUhu",
+		"consumerKey": "zkRdOGUXtjAd0QyTxP2XSbz78",
+		"consumerSecret": "niemhwkepagzK8GxX1XaFv0kbW7NSJ2hLpjxFPYALmrDii4Mjt",
 		"callbackURL": "/auth/twitter/callback",
 		"profileFields": ["id", "displayName", "photos"]
 	},
